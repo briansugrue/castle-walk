@@ -4,6 +4,9 @@
 
 ---
 
+## Demo Video
+[![Watch the Castle Walk Demo Short](https://img.youtube.com/vi/7HG4YaQumk4/hqdefault.jpg)](https://www.youtube.com/shorts/7HG4YaQumk4)
+
 ## 🎧 Key Features & Design Philosophy
 
 * **Audio-Driven Exploration:** Inspired by proximity-based audio cues (such as the Nirnroot plant from *The Elder Scrolls V: Skyrim*), the game encourages players to investigate distinct sonic identities across four unique areas.
