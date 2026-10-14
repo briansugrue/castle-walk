@@ -18,9 +18,9 @@
 | Room | Sonic Characteristics & Ambiance | Reverb / Acoustic Profile |
 | :--- | :--- | :--- |
 | **Hub Room** | Cold atmosphere, prominent brazier fire source; completely dry of background ambience to match its large stone geometry. | High reverberation, large hall reverb. |
-| **Armoury** | Industrial, war-like impression featuring tanker truck metal clangs. | Drier acoustic profile governed by "Wood" floor reverb settings. |
-| **Jail** | Eerie ambient stereo loop paired with interactive stone walls and interactive iron chain mechanics. | Acoustically tight stone hallway/jail reverb. |
-| **Alchemy Lab** | Mystical character driven by elephant bell sound beds and bubbling cauldron effects. | Low reverberation/dry "Wood" floor profile. |
+| **Armoury** | Industrial, war-like impression featuring tanker truck metal clangs. | Drier acoustics defined by "Wood" floor reverb settings. |
+| **Jail** | Eerie ambient stereo loop paired with interactive stone walls and interactive iron chain mechanics. | Tight stone hallway/jail reverb. |
+| **Alchemy Lab** | Mystical character driven by elephant bell sound beds and bubbling cauldron effects. | Low reverberation/dry "Wood" floor reverb. |
 
 ---
 
