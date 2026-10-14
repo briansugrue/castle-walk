@@ -1,10 +1,10 @@
-# Castle Walk XR 🏰🎧
+# Castle Walk XR
 
 **Castle Walk** is an immersive XR exploration game developed in Unity for the PICO 4 VR headset. Rather than relying on traditional game objectives or competition, the project treats **spatial and interactive audio as the primary core gameplay mechanic** to drive player curiosity and room-to-room exploration.
 
 ---
 
-## 🌟 Key Features & Design Philosophy
+## 🎧 Key Features & Design Philosophy
 
 * **Audio-Driven Exploration:** Inspired by proximity-based audio cues (such as the Nirnroot plant from *The Elder Scrolls V: Skyrim*), the game encourages players to investigate distinct sonic identities across four unique areas.
 * **Acoustically Distinct Rooms:** Features a central Hub Room, Armoury, Jail, and Alchemy Lab, each characterized by customized environmental ambisonics, audio mixer reverbs, and surface-dependent drop sounds.
